@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"GLAUBERB0802",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"GLAUBERB0802",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"GLAUBERB0802",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "BACKGROUND-STORYMODE",
+	"difficulties": "Easy, Normal, Hard",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "DISPLAY NAME",
+	"weekName": "WEEK NAME",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "FINISH",
+	"startUnlocked": true
+}
